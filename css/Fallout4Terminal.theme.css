@@ -1,14 +1,14 @@
 /**
  * @name Terminal
- * @author Ryu Kyong-Su#5896
+ * @author Zschorlau
  * @version 1.0.0
- * @source https://HansDieterWeger/Fallout4TerminalTheme
+ * @source https://HansDieterWeger/Theme
 */
 
-@import url('https://github.com/HansDieterWeger/Fallout4TerminalTheme/blob/main/css/main.css');
+@import url('https://github.com/HansDieterWeger/Terminal/blob/main/css/main.css');
 /* ^ THIS IS THE MAIN IMPORT. DO NOT TOUCH THIS OR THE THEME WILL BREAK. ^ */
 
-/* @import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/disableCRT.css'); */
+/* @import url('https://github.com/HansDieterWeger/Terminal/css/disableCRT.css'); */
 /* ^ UNCOMMENT THIS IMPORT IF YOU WANT TO REMOVE THE CRT EFFECT ^ */
 
 /* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
